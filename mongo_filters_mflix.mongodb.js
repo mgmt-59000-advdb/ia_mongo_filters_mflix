@@ -35,7 +35,7 @@ How many movies are available in the Polish or German languages, have at least 1
 
 /* IA QUESTION 5 - 4 points
 
-How many movies have a "Tomatoes" viewer rating greater than 80, a "Tomatoes" critic rating greater than 70, were released in the 1990s (including 1990), and are in the "Drama" genre?
+How many movies have a "Tomatoes" viewer rating less than 8.0, a "Tomatoes" critic rating greater than 7.0, were released in the 1990s (including 1990), and are in the "Drama" genre?
 
 */
 
